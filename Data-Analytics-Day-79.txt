@@ -1,0 +1,69 @@
+Machine Learning Concepts for Analysts
+
+🔹 Lesson 1 – What Is Machine Learning (M.L.)?
+==============================================
+Summary:
+Machine Learning helps computers learn patterns from past data instead of being explicitly programmed.
+Supervised Learning → learns from labeled data (e.g., predicting prices).
+Unsupervised Learning → finds hidden patterns (e.g., customer clusters).
+Reinforcement Learning → learns by feedback (e.g., game-playing AIs).
+
+Example:
+Netflix learns your preferences by studying what you watch and recommends similar shows.
+
+Video: Machine Learning for Beginners – Concept Overview (10 min)
+
+
+🔹 Lesson 2 – Supervised Learning Intuition
+================================================
+Summary:
+Supervised Learning = “teacher-guided.” The algorithm sees inputs + known outputs and learns the relationship.
+Regression → predict numbers (sales, temperature).
+Classification → predict categories (spam / not spam).
+
+Example:
+Predicting house prices based on size, location, and rooms.
+
+Video: Supervised Learning Explained – Intuitive Guide (12 min)
+
+
+🔹 Lesson 3 – Unsupervised Learning Intuition
+=================================================
+Summary:
+No labeled answers — the system groups or compresses data on its own.
+Clustering → groups customers by behavior.
+Dimensionality Reduction → simplifies complex data while keeping meaning.
+
+Example:
+E-commerce platforms cluster buyers by spending habits to personalize offers.
+
+Video: Unsupervised Learning – Concepts & Use Cases (13 min)
+
+
+🔹 Lesson 4 – Overfitting & Underfitting
+==========================================
+Summary:
+The balance between learning too much or too little.
+Overfitting: model memorizes data, fails on new data.
+
+Underfitting: model too simple, misses real patterns.
+
+Example:
+A student who memorizes past exam answers fails when new questions appear.
+
+Video: Overfitting vs Underfitting – Simple Analogy (8 min)
+
+
+🔹 Lesson 5 – Machine Learning in Business Decision Making
+===========================================================
+Summary:
+Businesses use M.L. insights to act smarter and faster.
+Banking → fraud detection.
+Healthcare → disease risk prediction.
+Marketing → personalized campaigns.
+
+Example:
+An insurance company predicts claim probability to adjust premiums fairly.
+
+Video: ML in Real Business – Case Stories (15 min)
+
